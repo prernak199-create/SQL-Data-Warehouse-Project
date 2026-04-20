@@ -1,4 +1,4 @@
-/*Create Gold View*/
+/*Create Gold View */
 ---Dimension Customer
 CREATE VIEW gold.dim_customers AS
 SELECT
